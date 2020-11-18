@@ -1,2 +1,2 @@
 # k-means-clustering
-A wildly inefficient implementation of k-means clustering using only Numpy. Gotta clean it up and lose at least 50% of those loops
+A relatively inefficient implementation of k-means clustering without using scikit-learn. Needs some refactoring.  
